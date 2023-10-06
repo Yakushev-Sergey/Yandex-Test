@@ -417,6 +417,7 @@ img {
   line-height: 120%;
   width: 442px;
   margin-bottom: 69px;
+  position: relative;
 }
 
 .exclusive__img {
@@ -469,6 +470,10 @@ img {
 .swiper-button-prev::after {
   display: none;
 } 
+
+.float__img-slider {
+  display: none;
+}
 
 /* четвертое окно  */
 
